@@ -1,0 +1,113 @@
+.container ul li
+{
+    position: relative;
+    display:inline-block;
+    position: relative;
+    left: 500px;
+    letter-spacing: 3px;
+    font-size: x-large;
+    
+}
+.container ul li a:hover
+{
+    background-color: #ff751a;
+    border: 2px salmon;
+    border-radius: 20px;
+}
+.E p
+{
+    font-size:30px;
+    text-align: center;
+    background-color:goldenrod;
+    position: relative;
+    transition: .1s;
+}
+.E p:hover
+{
+    transform:scale(2);
+}
+/* Task 4 */
+table{
+
+    border-collapse: collapse;
+    }
+    table tr td{
+
+    border: 1px solid #ff751a;
+    }
+    table tr th{
+    border: 1px solid seagreen;
+
+    }
+    .zebra{
+    background-color:goldenrod;
+    }
+    /* Task 8 */
+    #nonSelected{
+        position:relative;
+        left: 10px;
+        width: 180px;
+        height: 180px;
+        background-color: #884333;
+        border-width: 1px;
+        border-style: dotted;
+        border-color: black;
+        padding: 10px;
+    }
+    
+    #selected{
+        position:relative;
+        left: 250px;
+        width: 180px;
+        height: 180px;
+        background-color: #498933;
+        border-width: 1px;
+        border-style: dotted;
+        border-color: black;
+        padding: 10px;
+    }
+    /* Task 11 */
+    p span{
+        text-decoration: underline;
+      }
+      /* Task 12 */
+      
+p.center {
+    text-align: center;
+    color: blue;
+}
+
+p.large {
+    font-size: 200%;
+}
+/* Task 13 */
+h4
+{
+    margin: 10px 0;
+    padding: 0 5px;
+    font-size: 2em;
+    border: 2px double 
+green;
+}
+/* Task 30 */
+p.center {
+    text-align: center;
+    color: 
+red;
+}
+
+p.large {
+    font-size: 200%;
+}
+/* Task 31 */
+p.center {
+    text-align: center;
+    color: 
+red;
+}
+
+p.large {
+    font-size: 200%;
+    color: 
+blue;
+}
